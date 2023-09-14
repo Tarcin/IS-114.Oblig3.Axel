@@ -7,6 +7,6 @@
 <</head>
 <body>
 <h1>Min IS-114 portfolio</h1>
-<p>En portfolio laget i forbindelse med prosjektoblig 3 i IS-114 </
+<p>En portfolio laget i forbindelse med prosjektoblig 3 i IS-114 </p>
 </body>
 </html>
